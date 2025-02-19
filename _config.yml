@@ -25,14 +25,14 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  primary: eaebed #80B3FF
+  primary-rgb: "234,235,237" #"128,179,255"
+  secondary: a3bac3 #FD6E8A
+  secondary-dark: 006989 #A2122F
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Ayman Shamseldin
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,17 +40,17 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com/in/ayman-shamseldin-3a3730179/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/aymanshamseldin
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:beaugilbert93@gmail.com
+  email-url: mailto:aymanshamseldin1@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: Holmdel, New Jersey
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
